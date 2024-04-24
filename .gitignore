@@ -1,2 +1,7 @@
 data/
+.pth
+.png
 .ipynb_checkpoints/
+FedAvg/Age Based Scheduling Implementation/
+FedAvg/FedPAQ Implementation/
+FedAvg/Scheduling Comparison/
